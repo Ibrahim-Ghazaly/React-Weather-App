@@ -79,9 +79,7 @@ h1 {
 }
 
 ::placeholder {
-  background: -webkit-linear-gradient(#501e1e, #143357);
-   background-clip: text;
-  -webkit-text-fill-color: transparent;
+ color: #fff;
 }
 
 
